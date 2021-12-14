@@ -1,2 +1,2 @@
-# Adaptive Fuzzy Decision Tree Algorithm
+# AdaFDT
 Codebase for the paper "An Adaptive Fuzzy Decision Tree Algorithm"
