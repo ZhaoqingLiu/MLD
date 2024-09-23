@@ -1,5 +1,5 @@
-# XXX
-Codebase for "XXX"
+# An Integral Probability Metric for Detecting Distributional Discrepancies
+Codebase and supplementary material for the paper “An Integral Probability Metric for Detecting Distributional Discrepancies.”
 
-The following is supplementary material to the paper An Integral Probability Metric for Detecting Distributional Discrepancies, which contains proofs of the theorems and lemmas presented therein.
+The following supplementary material contains all the detailed proofs of the theorems and lemmas presented in the paper.
 
